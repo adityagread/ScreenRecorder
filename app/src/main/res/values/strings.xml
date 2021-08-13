@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Screen recorder</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="upload">Image</string>
+    <string name="camera">Camera</string>
+    <string name="record">Record</string>
+    <string name="uploadPdf">PDF</string>
+</resources>

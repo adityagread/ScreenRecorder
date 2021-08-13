@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <tab
+        drawable="@drawable/ic_baseline_file_upload_24"
+        text="@string/upload" />
+
+    <tab
+        drawable="@drawable/ic_baseline_videocam_24"
+        text="@string/camera" />
+
+    <tab
+        drawable="@drawable/ic_baseline_file_upload_24"
+        text="@string/uploadPdf"/>
+
+
+    <tab
+        drawable="@drawable/ic_record_24"
+        text="@string/record" />
+
+    <tab
+        drawable="@drawable/ic_record_24"
+        text="Refresh" />
+
+</tabs>
